@@ -1,0 +1,75 @@
+PROJECT PAGE EMULATOR LICENSE
+Copyright (c) 2026 Justin Douglas (KD0KAH)
+
+All rights reserved.
+
+1. PURPOSE
+
+This software is provided for:
+- Research
+- Educational use
+- Development in controlled environments
+
+It is NOT intended for:
+- Use on live production radio systems
+- Unauthorized access to communications networks
+- Commercial deployment without permission
+
+2. PERMITTED USE
+
+You are permitted to:
+- Use the software for personal and educational purposes
+- Study, analyze, and modify the source code
+- Share the software in its original or modified form for non-commercial use
+
+3. RESTRICTIONS
+
+You may NOT:
+- Use this software in live or operational radio systems
+- Use this software on networks you do not own or have explicit authorization to access
+- Sell, license, or commercially distribute this software or derivatives
+- Remove or alter copyright notices
+- Misrepresent the origin of this software
+
+4. ATTRIBUTION
+
+This project builds upon components from the DVMProject (Digital Voice Modem Project).
+All credit for those components belongs to their respective authors.
+
+5. TRADEMARKS
+
+Motorola® and SmartConnect® are registered trademarks of Motorola Solutions, Inc.
+
+This project is not affiliated with, endorsed by, or sponsored by Motorola Solutions, Inc.
+
+6. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+THE AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
+8. USER RESPONSIBILITY
+
+Users are solely responsible for ensuring compliance with:
+- Local laws
+- Federal regulations
+- Radio communication policies
+- Licensing requirements
+
+9. EXPORT / REGULATORY NOTICE
+
+This software may be subject to regulatory controls depending on jurisdiction.
+Use is the responsibility of the end user.
+
+10. CONTACT
+
+For commercial licensing, special permissions, or questions:
+Contact the author directly.
+
+Discord @kd0kah
+
+© 2026 Justin Douglas (KD0KAH)
