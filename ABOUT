@@ -1,17 +1,17 @@
 PROJECT PAGE EMULATOR
-P25 SmartConnect Emulation & Research Platform
+P25 SmartConnect® Emulation & Research Platform
 
 Overview:
-Project PAGE Emulator is a research and development platform designed to emulate a P25 SmartConnect-capable environment. It enables subscriber radios to establish secure TLS-based connections and interact with a simulated trunked radio system over IP.
+Project PAGE Emulator is a research and development platform designed to emulate a P25 SmartConnect®-capable environment. It enables subscriber radios to establish secure TLS-based connections and interact with a simulated trunked radio system over IP.
 
-The project focuses on protocol-level understanding, system emulation, and interoperability testing of subscriber behavior when operating in a SmartConnect-enabled environment.
+The project focuses on protocol-level understanding, system emulation, and interoperability testing of subscriber behavior when operating in a SmartConnect®-enabled environment.
 
 Core Capabilities:
-- SmartConnect TLS session emulation
+- SmartConnect® TLS session emulation
 - Stage 1 / Stage 2 handshake handling
 - Radio authentication workflows (RPTL / RPTK / RPTC via DVMFNE)
 - System Information delivery (0x50)
-- SmartConnect application message analysis
+- SmartConnect® application message analysis
 - Session lifecycle management and cleanup
 - Packet capture and protocol inspection
 
@@ -31,10 +31,13 @@ This project builds upon the foundational work of the DVMProject (Digital Voice 
 
 Trademark Notice:
 Motorola® and SmartConnect® are registered trademarks of Motorola Solutions, Inc.
+
+All other product names, trademarks, and registered trademarks are the property of their respective owners. Their use in this project is for identification and reference purposes only and does not imply any affiliation or endorsement.
+
 This project is not affiliated with, endorsed by, or sponsored by Motorola Solutions, Inc.
 
 Disclaimer:
 This software is provided for research and educational purposes only. It is not intended for use on live production systems or unauthorized networks. Users are responsible for ensuring compliance with all applicable laws, regulations, and licensing requirements.
 
 Status:
-Active development — ongoing work is focused on completing SmartConnect application-layer responses and full subscriber affiliation workflows.
+Active development — ongoing work is focused on completing SmartConnect® application-layer responses and full subscriber affiliation workflows.
